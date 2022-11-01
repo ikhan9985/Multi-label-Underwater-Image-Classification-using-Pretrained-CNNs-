@@ -5,4 +5,4 @@ Multi-label Underwater Image Classification using Pretrained CNNs
 ## Dataset
 
 - The dataset has two versions: the original underwater captured images and the enhanced version. We improve the enhancement of the dataset using CLAHE. You can download both versions from the link given below.
-- Download here: https://drive.google.com/file/d/1G6v9hlL5r6tFqQUlLvStjgDQX3ZQeHxY/view?usp=sharing
+- Download Image Datasets here: https://drive.google.com/file/d/1G6v9hlL5r6tFqQUlLvStjgDQX3ZQeHxY/view?usp=sharing
